@@ -1,0 +1,2 @@
+[console_scripts]
+prosperity3bt = prosperity3bt.__main__:main

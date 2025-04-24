@@ -68,3 +68,12 @@ wheels/
 
 # OS generated files
 .DS_Store
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Windows Alternate Data Streams
+*:Zone.Identifier
+
+# Explicitly ignore backtests directory
+backtests/
